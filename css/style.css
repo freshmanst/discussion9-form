@@ -24,6 +24,10 @@
 
   }
 
+  h1 {
+    font-size:larger;
+  }
+
   .radio {
     grid-column-start: 1;
     grid-column-end: 3;
